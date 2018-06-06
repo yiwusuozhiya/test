@@ -1,0 +1,5 @@
+public class test{
+public static string main(string args[]){
+System.out.prinlt("java");
+}
+}
